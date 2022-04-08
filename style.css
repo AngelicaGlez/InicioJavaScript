@@ -1,0 +1,16 @@
+.hero{
+    color: blue;
+    font-size: 2rem;
+    background-color: white;
+}
+
+.vigilante{
+    color: white;
+    background-color: black;
+    font-size: 1.5rem;
+}
+
+#title{
+    font-size: 3rem;
+}
+
